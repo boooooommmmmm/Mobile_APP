@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_login">Loginnn</string>
+    <string name="button_click_me">Click me</string>
+    <string name="button_exit">Exit</string>
+    <string name="First_screen_welcome_string">Welcome, please input your user name and password:</string>
+</resources>
